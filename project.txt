@@ -1,3 +1,5 @@
 https://wokwi.com/projects/433638860355580929
 link for wokwi.com where the beginning of the game is with the arduino simulation used in the zip
 https://wokwi.com/projects/433738084871874561
+not the whole loop:
+https://wokwi.com/projects/433638860355580929
